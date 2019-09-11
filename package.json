@@ -1,0 +1,16 @@
+{
+  "name": "projektmilion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "macy": "^2.5.0",
+    "masonry-layout": "^4.2.2",
+    "node-sass": "^4.12.0"
+  }
+}
