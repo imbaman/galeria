@@ -1,2 +1,2 @@
 # galeria
-Galeria z wykorzystaniem bibliotek.
+Galeria z wykorzystaniem biblioteki js.
