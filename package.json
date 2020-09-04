@@ -11,6 +11,6 @@
   "dependencies": {
     "macy": "^2.5.0",
     "masonry-layout": "^4.2.2",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
